@@ -207,6 +207,8 @@ footer{
 }
 .h-secondary{
     font-size: 1.8rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
     padding: 8px;
     margin: 2px;
 }
@@ -224,4 +226,9 @@ footer{
 
 .center{
     text-align: center;
+}
+
+.box p{
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
