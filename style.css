@@ -18,7 +18,7 @@ html{
     display: flex;
     align-items: center;
     /* position: relative; */
-    position: sticky;
+    position: absolute;
     top: 0px;
     margin: -8px;
     z-index: 5;
